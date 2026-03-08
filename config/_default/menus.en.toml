@@ -1,0 +1,11 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Post"
+pageRef = "posts"
+identifier = "6VxDuzFBbz"
+weight = 9_999
+
+[[footer]]
+none = "none"

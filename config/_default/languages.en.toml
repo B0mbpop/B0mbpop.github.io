@@ -1,0 +1,25 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Travis' Andrews Blog"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "This is a blog to showcase the portfolio of Travis Andrews."
+copyright = ""
+logo = "Original+Bomb+Pop-topaz-enhance-sharpen-removebg-preview.png"
+secondaryLogo = "Original+Bomb+Pop-topaz-enhance-sharpen-removebg-preview.png"
+
+  [params.author]
+  links = [ ]
+
+["params.author"]
+headline = "Cyber-security Specialist"
+name = "Travis Andrews"
+email = ""
+imageQuality = ""
+image = "Original+Bomb+Pop-topaz-enhance-sharpen-removebg-preview.png "
